@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Shield Outline -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M50,10 L83,25 L83,50 C83,71.5 69.8,90.8 50,92 C30.2,90.8 17,71.5 17,50 L17,25 Z M50,15 L21,28 L21,50 C21,68 32,84 50,86 C68,84 79,68 79,50 L79,28 Z" />
+
+    <!-- Top Bar 1 -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M32,27 L68,27 L68,33 L32,33 Z" />
+
+    <!-- Top Bar 2 -->
+    <path
+        android:fillColor="#2DD4BF"
+        android:pathData="M32,39 L62,39 L62,45 L32,45 Z" />
+
+    <!-- Rupee Main Loop -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M36,27 L42,27 L42,54 L58,54 C64,54 68,50 68,42 C68,34 64,30 58,30 L36,30 Z M42,33 L58,33 C61,33 63,35 63,42 C63,49 61,51 58,51 L42,51 Z" />
+
+    <!-- Ascent Leg -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,51 L60,75 L65,70 L41,46 Z" />
+
+    <!-- Spark Diamond -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M72,26 L76,32 L82,36 L76,40 L72,46 L68,40 L62,36 L68,32 Z" />
+</vector>

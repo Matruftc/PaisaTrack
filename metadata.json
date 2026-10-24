@@ -1,0 +1,6 @@
+{
+  "name": "PaisaTrack - Privacy-First Expense & UPI Money Manager",
+  "description": "Zero-database, local storage personal finance and expense tracker with smart UPI text/QR parser, custom date filtering, and private analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

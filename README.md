@@ -1,21 +1,20 @@
-Run it....
-taste here
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-https://onpaisatrack.netlify.app/
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/e09f6927-afa4-4254-ad5a-9f4d361f5450
+
+## Run Locally
+
+**Prerequisites:**  Node.js
 
 
-Take control of your personal finances with total privacy.
-
-PaisaTrack is a fast, offline-first personal expense and UPI money manager designed to keep your financial data strictly in your hands. Track your daily debits, salary credits, and spending velocity without creating accounts, linking sensitive banking credentials, or storing data on remote cloud servers.
-
-Key Features:
-
-100% Local & Private: All transactions, incomes, and analytics live directly in your browser’s local vault.
-
-Smart UPI & SMS Parsing: Easily capture expenses with instant merchant, UTR, and UPI ID categorization.
-
-Spending Distribution & Trends: Visual breakdown across categories (Food, Bills, Shopping, Travel) and 7-day spending velocity.
-
-Guilt-Free Baseline: Calibrate your monthly income baseline to track net surplus and retained savings in real time.
-
-Instant Split & Search: Filter records by category, date range, or search specific UTR and transaction references on the fly.
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
